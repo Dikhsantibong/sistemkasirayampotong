@@ -1,0 +1,1 @@
+import{n as e}from"./rolldown-runtime-CbXtAM7H.js";import{g as t,s as n}from"./wayfinder-CHfLDklX.js";import{a as r,i,t as a}from"./sync-DiS7gFQA.js";var o=n(),s=e(t(),1);function c(){let e=(0,o.c)(2),t=(0,s.useSyncExternalStore)(l,a,a),n;return e[0]===t?n=e[1]:(n={...t,synchronise:r},e[0]=t,e[1]=n),n}function l(e){return i(()=>e())}export{c as t};

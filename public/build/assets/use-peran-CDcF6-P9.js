@@ -1,0 +1,1 @@
+import{m as e,s as t}from"./wayfinder-CHfLDklX.js";var n=t();function r(){let t=(0,n.c)(4),{auth:r}=e().props,i=r.user?.role??`kasir`,a=i===`pemilik`,o=r.user?.name??`Kasir`,s;return t[0]!==i||t[1]!==a||t[2]!==o?(s={peran:i,isPemilik:a,nama:o},t[0]=i,t[1]=a,t[2]=o,t[3]=s):s=t[3],s}export{r as t};
